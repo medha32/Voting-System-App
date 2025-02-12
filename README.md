@@ -38,6 +38,6 @@ Theoretical implementation
 
 Currently shows placeholder warning
 
-# 🛠️ Installation
+# Follow the link to experience the features 
 [Ensure streamlit is installed
 git clone : https://github.com/medha32/Voting-System-App](https://voting-system-app-4zwqgebpv86rxdjdtjygpt.streamlit.app/)
