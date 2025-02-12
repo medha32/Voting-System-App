@@ -5,7 +5,7 @@
 Voting Systems Explorer is a Streamlit web application that allows users to explore various voting methods, compare their outcomes, and understand how different systems determine winners in elections. Users can input candidates, define voter preferences, and run different voting simulations.
 Voting Systems Explorer
 
-# 🚀 Voting Methods Explained
+# Voting Methods Explained
 
 # 🏆 First Past the Post
 Simple plurality voting
@@ -33,7 +33,11 @@ Higher rankings earn more points
 
 Candidate with highest total points wins
 
-# ⚖️ Condorcet Method (WIP)
+# ⚖️ Condorcet Method 
 Theoretical implementation
 
 Currently shows placeholder warning
+
+# 🛠️ Installation
+Ensure streamlit is installed
+git clone : https://github.com/medha32/Voting-System-App
