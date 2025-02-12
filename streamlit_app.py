@@ -29,7 +29,7 @@ def main():
         condorcet_system()
 
 def get_candidates():
-    candidates_input = st.text_input("Enter candidates:", "Alice, Bob, Charlie")
+    candidates_input = st.text_input("Enter candidates:", "A, B, C")
     candidates = [c.strip() for c in candidates_input.split(',') if c.strip()]
     if len(candidates) < 2:
         st.warning("Please enter at least 2 candidates.")
